@@ -144,7 +144,6 @@ public class MainActivity extends AppCompatActivity {
                     enableButtons(true);
                     mOnPlay = new onPlay();
                     mOnPlay.execute();
-
                 }
             }
         }
